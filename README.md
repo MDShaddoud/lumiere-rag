@@ -1,5 +1,7 @@
 # Lumière RAG — Bilingual Salon Knowledge Assistant
 
+📓 [View the notebook](https://nbviewer.org/github/MDShaddoud/lumiere-rag/blob/main/lumiere_rag.ipynb)
+
 A Retrieval-Augmented Generation (RAG) pipeline that lets an AI salon assistant answer customer questions in **Arabic (Syrian dialect) or English**, using only the salon's own knowledge base.
 
 ## How it works
